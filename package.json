@@ -1,0 +1,15 @@
+{
+  "name": "tiktrackdashboard",
+  "version": "1.0.0",
+  "description": "Node.js on docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Supamard Jitithammawat<kwan_st82@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "mysql": "^2.16.0"
+  }
+}
